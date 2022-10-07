@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">SendMessage</string>
+    <string name="etMessage" />
+    <string name="etMessageMint">Escribe un mensaje</string>
+    <string name="btSendText">Enviar</string>
+    <string name="etUserMint">48dp</string>
+    <string name="etUser">Introduce tu nombre</string>
+    <string name="txvUsuario">El usuario</string>
+    <string name="txvUsuarioMint">48dp</string>
+    <string name="txvMensajeEscritoMint">48</string>
+    <string name="txvMensajeEscrito">Ha escrito el mensaje</string>
+    <string name="imgMessage">Imagen que muestra dos mensajes</string>
+    <string name="aboutUs">Sobre mi</string>
+    <string name="aboutSubTitle">Aplicacion enviar mensajes</string>
+    <string name="aboutBrief">Aplicación sobre usuarios y envío de mensajes</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="etMessage" />
+    <string name="etMessageMint">Write a message</string>
+    <string name="btSendText">Send</string>
+    <string name="etUserMint">48dp</string>
+    <string name="etUser">Introduce your name</string>
+    <string name="txvUsuario">The user</string>
+    <string name="txvUsuarioMint">48dp</string>
+    <string name="txvMensajeEscritoMint">48</string>
+    <string name="txvMensajeEscrito">Has written a message</string>
+    <string name="imgMessage">Image that shows 2 messages</string>
+</resources>
